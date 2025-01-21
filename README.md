@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 @rbenna1 Computer Science University Paris Saclay, Paris.
 
-rafik.bennacer.cs@æmail.com
+rafik.bennacer.cs@gmail.com
